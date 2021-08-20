@@ -30,6 +30,6 @@ Jupyter Lab, Python, Pandas, Tableau
 
 ## Sample Images / Takeaways 
 
-![Top 5 Stations](images/top5stations.png)
+![Top 5 Stations](Images/top5stations.png)
 
-![User Usage Comparison](images/usercomparisons.png)
+![User Usage Comparison](Images/usercomparisons.png)
